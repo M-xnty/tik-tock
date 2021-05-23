@@ -1,1 +1,2 @@
-# tik-tock
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
